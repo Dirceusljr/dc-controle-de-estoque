@@ -1,0 +1,10 @@
+h1, h2 {
+    text-align: center;
+}
+
+.pesquisa {
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+    padding: 10px;
+}
